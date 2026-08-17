@@ -68,7 +68,8 @@ print("\nClassification Report:\n", report)
 ```
 
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
+<img width="796" height="628" alt="Screenshot 2026-08-17 211033" src="https://github.com/user-attachments/assets/58ef93aa-234d-45ad-b836-ed138b14ff55" />
+
 
 
 ## Result:
